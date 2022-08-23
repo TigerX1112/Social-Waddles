@@ -1,0 +1,11 @@
+#logo {
+    width: 50px;
+    height: 50px;
+    rotate: 20deg;
+}
+
+#header {
+    font-family: fantasy;
+    font-size: 70px;
+    color: cadetblue;
+}
