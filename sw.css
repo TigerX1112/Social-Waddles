@@ -9,3 +9,22 @@
     font-size: 70px;
     color: cadetblue;
 }
+
+#logOut_btn {
+    text-align: left;
+}
+
+#b_text {
+    font-family: monospace;
+    color: blueviolet;
+    font-size: 40px;
+}
+
+#logout {
+    font-size: 20px; float: right;
+}
+
+#body_background {
+    background-image: url(background_penguein.jpg);
+    background-size: cover;
+}
