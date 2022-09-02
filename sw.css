@@ -16,7 +16,7 @@
 
 #b_text {
     font-family: monospace;
-    color: blueviolet;
+    color: rosybrown;
     font-size: 40px;
 }
 
@@ -27,4 +27,9 @@
 #body_background {
     background-image: url(background_penguein.jpg);
     background-size: cover;
+}
+
+.room_div {
+    cursor: pointer;
+    font-size: 25px;
 }
