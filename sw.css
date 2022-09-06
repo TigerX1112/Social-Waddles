@@ -33,3 +33,9 @@
     cursor: pointer;
     font-size: 25px;
 }
+
+.div_msg_box {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
